@@ -1,0 +1,2 @@
+Requires 'yt-dlp'... OK
+Requires 'ffmpeg'... unavailable
